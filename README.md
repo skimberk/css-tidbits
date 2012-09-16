@@ -1,1 +1,1 @@
-To run in a development environment, run ```jekyll --server --auto && compass watch```.
+To run in a development environment, run ```foreman start```.
